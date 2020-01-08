@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">anothertest/fr</string>
+    <string name="action_settings">Settings/fr</string>
+    <string name="sign_in">Sign In/fr</string>
+    <string name="ok">CLICK ME/fr</string>
+    <string name="button">Button/fr</string>
+    <string name="button_clicked">Button was clicked!/fr</string>
+</resources>
